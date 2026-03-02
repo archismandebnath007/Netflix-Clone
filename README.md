@@ -13,3 +13,6 @@ A responsive Netflix landing page clone built using HTML, CSS and JavaScript.
 - HTML5
 - CSS3
 - JavaScript
+
+- ## 🔗 Live Demo
+- (https://archismandebnath007.github.io/Netflix-Clone/)
