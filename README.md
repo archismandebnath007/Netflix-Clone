@@ -10,8 +10,8 @@ A responsive Netflix landing page clone built using HTML, CSS and JavaScript.
 - Clean UI
 
 ## 🛠️ Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 - ## 🔗 Live Demo
